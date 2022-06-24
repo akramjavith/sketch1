@@ -18,9 +18,6 @@ function makeRows(rows, cols) {
     };
 };
 
-function black(number) {
-    return Math.floor(Math.random() * number + 1);
-}
 
 
 
